@@ -1,7 +1,7 @@
 
 let firstNumber = prompt("Enter first number");
 
-let lastNumber = prompt("Enter last number");
+let lastNumber = prompt("Enter second number");
 var parameter = [   "*", "+" , "-" , "/"];
 let enterParameter =prompt( "Enter  either of the below operator"+ " \n" + parameter) ;
 var result;
