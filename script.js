@@ -2,8 +2,8 @@
 let firstNumber = prompt("Enter first number");
 
 let lastNumber = prompt("Enter last number");
-var parameter = ["*","+","-","/"];
-let enterParameter =prompt(parameter) ;
+var parameter = [   "*", "+" , "-" , "/"];
+let enterParameter =prompt( "Enter  either of the below operator"+ " \n" + parameter) ;
 var result;
 
 if (enterParameter === parameter[0]) {
