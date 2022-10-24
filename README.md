@@ -1,2 +1,2 @@
 # Udemy-Js
-improving js skills
+improving JavaScript skills
